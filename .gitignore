@@ -90,3 +90,7 @@ Content/Megascans/*
 
 # RECORDS
 Content/RECORDS/*
+
+# Pour les synchro  drive
+.tmp.driveupload/*
+.tmp.drivedownload/*
